@@ -1,0 +1,49 @@
+---
+request:
+  method: get
+  uri: http://www.alderney.gov.gg/article/157566/Mike-Dean
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Connection:
+    - Keep-Alive
+    Set-Cookie:
+    - ASP.NET_SessionId=chh4gokhdrg1qeaezfolns5g; path=/; HttpOnly
+    - ISAWPLB{E9EF29AD-22A5-44E2-B2B4-A682D74D038A}={BE4991E4-51E0-46EE-A4E7-D6DAC5B232E3};
+      HttpOnly; Path=/
+    - TextOnlyX=; expires=Thu, 05-Jan-2012 18:48:51 GMT; path=/
+    - clientvars=cd8adf3c-b987-4740-afe8-866581ffab66; expires=Sat, 07-Jan-2017 18:48:51
+      GMT; path=/; HttpOnly
+    - mode=0; expires=Fri, 14-Apr-2017 17:48:51 GMT; path=/
+    Expires:
+    - Thu, 05 Jan 2017 18:48:51 GMT
+    Date:
+    - Thu, 05 Jan 2017 18:48:52 GMT
+    Content-Type:
+    - text/html; charset=utf-8
+    Server:
+    - Microsoft-IIS/7.5
+    Cache-Control:
+    - private
+    Pragma:
+    - no-cache
+    X-Powered-By:
+    - ASP.NET
+    Content-Length:
+    - '38253'
+  body:
+    encoding: UTF-8
+  http_version: 
+recorded_at: Thu, 05 Jan 2017 18:48:53 GMT
