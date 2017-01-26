@@ -14,18 +14,6 @@ class MemberPage < Scraped::HTML
     noko.css('div.limage img/@src').text
   end
 
-  field :district do
-    'Alderney'
-  end
-
-  field :party do
-    'Independent'
-  end
-
-  field :term do
-    2014
-  end
-
   field :source do
     url
   end
