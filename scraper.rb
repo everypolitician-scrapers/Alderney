@@ -47,4 +47,6 @@ def scrape_mp(url)
 end
 
 @BASE = 'http://www.alderney.gov.gg'
+
+ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
 scrape_list('http://www.alderney.gov.gg/article/4077/States-Members')
