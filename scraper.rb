@@ -3,8 +3,11 @@
 # frozen_string_literal: true
 
 require 'pry'
+require 'require_all'
 require 'scraped'
 require 'scraperwiki'
+
+require_rel 'lib'
 
 # require 'open-uri/cached'
 # OpenURI::Cache.cache_path = '.cache'
@@ -14,10 +17,15 @@ def noko_for(url)
   Nokogiri::HTML(open(url).read)
 end
 
+def scrape(h)
+  url, klass = h.to_a.first
+  klass.new(response: Scraped::Request.new(url: url).response)
+end
+
 def scrape_list(url)
   noko = noko_for(url)
-  noko.xpath('.//ul[@id="leftnavigation"]/li[contains(.,"States Members")]/following-sibling::li[@class="child"]//a/@href').each do |li|
-    scrape_mp(li.text)
+  (scrape url => MembersPage).members.each do |mem_url|
+    scrape_mp(mem_url)
   end
 end
 
