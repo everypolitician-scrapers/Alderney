@@ -23,12 +23,9 @@ def scrape_list(term, url)
     data = (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
                                                      party:    'Independent',
                                                      term:     term)
-    data[:image] = URI.join(@BASE, URI.escape(data[:image])).to_s unless data[:image].to_s.empty?
     ScraperWiki.save_sqlite(%i(id term), data)
   end
 end
-
-@BASE = 'http://www.alderney.gov.gg'
 
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
 scrape_list(2014, 'http://www.alderney.gov.gg/article/4077/States-Members')

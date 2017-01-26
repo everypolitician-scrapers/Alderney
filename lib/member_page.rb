@@ -11,7 +11,10 @@ class MemberPage < Scraped::HTML
   end
 
   field :image do
-    noko.css('div.limage img/@src').text
+    base = 'http://www.alderney.gov.gg'
+    image = noko.css('div.limage img/@src').text
+    return image if image.empty?
+    URI.join(base, URI.escape(image)).to_s
   end
 
   field :source do
