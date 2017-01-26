@@ -19,7 +19,7 @@ def scrape(h)
 end
 
 def scrape_list(term, url)
-  (scrape url => MembersPage).members.each do |mem_url|
+  (scrape url => MembersPage).member_urls.each do |mem_url|
     data = (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
                                                      party:    'Independent',
                                                      term:     term)
