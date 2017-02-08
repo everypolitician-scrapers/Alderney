@@ -1,0 +1,46 @@
+---
+request:
+  method: get
+  uri: http://www.alderney.gov.gg/html/ErrorPageCustom.html?aspxerrorpath=/index.aspx
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - "*/*"
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Connection:
+    - Keep-Alive
+    Set-Cookie:
+    - ISAWPLB{E9EF29AD-22A5-44E2-B2B4-A682D74D038A}={BE4991E4-51E0-46EE-A4E7-D6DAC5B232E3};
+      HttpOnly; Path=/
+    Content-Length:
+    - '1474'
+    Date:
+    - Wed, 08 Feb 2017 02:47:07 GMT
+    Content-Type:
+    - text/html;charset=utf-8
+    Etag:
+    - '"fae54f83ed7dd21:0"'
+    Server:
+    - Microsoft-IIS/7.5
+    Accept-Ranges:
+    - bytes
+    Cache-Control:
+    - max-age=86400
+    Last-Modified:
+    - Fri, 03 Feb 2017 07:17:01 GMT
+    X-Powered-By:
+    - ASP.NET
+  body:
+    encoding: ASCII-8BIT
+  http_version: 
+recorded_at: Wed, 08 Feb 2017 02:47:09 GMT
