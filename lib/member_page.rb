@@ -14,7 +14,7 @@ class MemberPage < Scraped::HTML
   end
 
   field :image do
-    image = noko.css('div.limage img/@src').text
+    noko.css('div.limage img/@src').text
   end
 
   field :source do
