@@ -18,14 +18,14 @@ def scrape(h)
   klass.new(response: Scraped::Request.new(url: url).response)
 end
 
-def scrape_list(term, url)
-  (scrape url => MembersPage).member_urls.each do |mem_url|
-    data = (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
-                                                     party:    'Independent',
-                                                     term:     term)
-    ScraperWiki.save_sqlite(%i(id term), data)
-  end
-end
-
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
-scrape_list(2014, 'http://www.alderney.gov.gg/article/4077/States-Members')
+
+url = 'http://www.alderney.gov.gg/article/4077/States-Members'
+term = 2014
+(scrape url => MembersPage).member_urls.each do |mem_url|
+  data = (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
+                                                   party:    'Independent',
+                                                   term:     term)
+  # puts data.reject { |k, v| v.to_s.empty? }.sort_by { |k, v| k }.to_h
+  ScraperWiki.save_sqlite(%i(id term), data)
+end
