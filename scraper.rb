@@ -21,7 +21,7 @@ end
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
 
 url = 'http://www.alderney.gov.gg/article/4077/States-Members'
-term = 2014
+term = 2017
 data = (scrape url => MembersPage).member_urls.map do |mem_url|
   (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
                                             party:    'Independent',
