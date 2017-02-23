@@ -21,12 +21,10 @@ end
 ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
 
 url = 'http://www.alderney.gov.gg/article/4077/States-Members'
-term = 2014
 data = (scrape url => MembersPage).member_urls.map do |mem_url|
   (scrape mem_url => MemberPage).to_h.merge(district: 'Alderney',
-                                            party:    'Independent',
-                                            term:     term)
+                                            party:    'Independent')
 end
 
 # data.each { |d| puts d.reject { |_k, v| v.to_s.empty? }.sort_by { |k, _v| k }.to_h }
-ScraperWiki.save_sqlite(%i(id term), data)
+ScraperWiki.save_sqlite(%i(id), data)
