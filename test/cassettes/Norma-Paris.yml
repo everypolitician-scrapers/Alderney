@@ -1,0 +1,482 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.alderney.gov.gg/article/112088/Norma-Paris
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Connection:
+      - Keep-Alive
+      Set-Cookie:
+      - ASP.NET_SessionId=alby4dk2oumbpwkadmgsmpwh; path=/; HttpOnly
+      - ISAWPLB{E9EF29AD-22A5-44E2-B2B4-A682D74D038A}={BE4991E4-51E0-46EE-A4E7-D6DAC5B232E3};
+        HttpOnly; Path=/
+      - TextOnlyX=; expires=Wed, 25-Apr-2012 13:34:33 GMT; path=/
+      - clientvars=391c10b0-3968-4933-8ba6-b69bdf43398a; expires=Thu, 27-Apr-2017
+        13:34:33 GMT; path=/; HttpOnly
+      - mode=0; expires=Wed, 02-Aug-2017 13:34:33 GMT; path=/
+      Expires:
+      - Tue, 25 Apr 2017 13:34:33 GMT
+      Date:
+      - Tue, 25 Apr 2017 13:34:33 GMT
+      Content-Type:
+      - text/html; charset=utf-8
+      Server:
+      - Microsoft-IIS/7.5
+      Cache-Control:
+      - private
+      Pragma:
+      - no-cache
+      X-Powered-By:
+      - ASP.NET
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: "\r\n    \r\n    \r\n    \r\n    \r\n\t\t<!DOCTYPE html PUBLIC \"-//W3C//DTD
+        XHTML 1.1//EN\" \"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd\" >\r\n\t\t<html
+        xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-gb\">\r\n\t\t\t<head>\r\n\t\t\t\t<title>Norma
+        Paris - Alderney</title>\r\n\r\n\t\t\t\t<base href=\"http://www.alderney.gov.gg/\"
+        />\r\n\r\n\t\t\t\t<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"
+        />\r\n\t\t\t\t<meta http-equiv=\"Content-Style-Type\" content=\"text/css\"
+        />\r\n\t\t\t\t<meta http-equiv=\"Content-Script-Type\" content=\"text/javascript\"
+        />\r\n\t\t\t\t<meta name=\"viewport\" content=\"width=320;\" />\r\n                <meta
+        http-equiv=\"refresh\" content=\"1000\" />\r\n\t\t\t\t\r\n                <link
+        rel=\"shortcut icon\" href=\"./StatesofAlderney/images/favicon.ico\" />\r\n\r\n\t\t\t\t<meta
+        \ name=\"generator\" content=\"GOSS iCM - Intelligent Content Management\"
+        />\r\n<meta  name=\"DC.format.medium\" content=\"html/text\" />\r\n<meta  name=\"DC.date.created\"
+        content=\"2014-04-14T12:23:05+01:00\" scheme=\"W3CDTF\" />\r\n<meta  name=\"DC.date.issued\"
+        content=\"2014-04-14T12:21:29+01:00\" scheme=\"W3CDTF\" />\r\n<meta  name=\"DC.date.modified\"
+        content=\"2017-03-02T12:42:55+00:00\" scheme=\"W3CDTF\" />\r\n<meta  name=\"DC.date.disposal.review\"
+        content=\"2113-04-14T12:21:29+01:00\" scheme=\"W3CDTF\" />\r\n<meta  name=\"eGMS.accessibility\"
+        content=\"Double-A\" scheme=\"eGMS.WCAG20\" />\r\n<meta  name=\"DC.title\"
+        content=\"Norma Paris\" />\r\n<meta  name=\"DC.description\" content=\"\"
+        />\r\n<meta  name=\"description\" content=\"\" />\r\n<meta  name=\"DC.identifier\"
+        content=\"http://www.alderney.gov.gg/article/112088/Norma-Paris\" scheme=\"DCTERMS.URI\"
+        />\r\n<meta  name=\"DC.language\" content=\"en\" scheme=\"ISO 639-3/T\" />\r\n<meta
+        \ name=\"DC.rights.copyright\" content=\"Copyright 2017 Alderney\" />\r\n<meta
+        \ name=\"DC.type\" content=\"Reference\" scheme=\"eGMS.TES\" />\r\n<meta  name=\"DC.contributor\"
+        content=\"PO Box 23, St Peter Port, Guernsey, GY1 3AN, Channel Islands\" />\r\n<meta
+        \ name=\"DC.creator\" content=\"PO Box 23, St Peter Port, Guernsey, GY1 3AN,
+        Channel Islands\" />\r\n<meta  name=\"DC.publisher\" content=\"PO Box 23,
+        St Peter Port, Guernsey, GY1 3AN, Channel Islands\" />\r\n\r\n\r\n\t\t\t\t\r\n\t\t\t\t\t\t<script
+        type=\"text/javascript\" src=\"./StatesofAlderney/scripts/jquery/jquery-1.6.1.min.js\"></script><script
+        type=\"text/javascript\" src=\"./StatesofAlderney/scripts/jquery/jquery.nivo.slider.pack.js\"></script><script
+        type=\"text/javascript\" src=\"./StatesofAlderney/scripts/calendar.js\"></script><script
+        type=\"text/javascript\" src=\"./StatesofAlderney/scripts/javascripts.js\"></script><script
+        type=\"text/javascript\" src=\"./StatesofAlderney/scripts/jquery/jquery.lightbox-0.5.min.js\"></script>\r\n\t\t\t\t\t\r\n
+        \               \r\n                    <script src=\"./StatesofAlderney/scripts/firstword.js\"
+        type=\"text/javascript\"></script>\r\n                \r\n\r\n\t\t\t\t\r\n\t\t\t\t<link
+        href=\"./StatesofAlderney/css/nivo-slider.css\" rel=\"stylesheet\" type=\"text/css\"
+        media=\"all\" />\n<link href=\"./StatesofAlderney/css/editor.css\" rel=\"stylesheet\"
+        type=\"text/css\" media=\"all\" />\n<link href=\"./StatesofAlderney/css/main.css\"
+        rel=\"stylesheet sw\" type=\"text/css\" media=\"all\" />\n<!--[if IE 7]> \n<link
+        href=\"./StatesofAlderney/css/main-adv.css\" rel=\"stylesheet\" type=\"text/css\"
+        media=\"all\" />\n <![endif]-->\n<!--[if lte IE 6]> \n<link href=\"./StatesofAlderney/css/main-adv.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n <![endif]-->\n<!--[if
+        IE 8]> \n<link href=\"./StatesofAlderney/css/main-adv.css\" rel=\"stylesheet\"
+        type=\"text/css\" media=\"all\" />\n <![endif]-->\n<link href=\"./StatesofAlderney/css/styleprint.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"print\" />\n<link href=\"./StatesofAlderney/template/default/css/default.css\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"all\" />\n\r\n\t\t\t\t\r\n                \r\n\t\t\t\t\r\n\t\r\n
+        \   \r\n    \r\n    \r\n    <script src=\"./StatesofAlderney/scripts/sw.js\"
+        type=\"text/javascript\"></script>\r\n    \r\n\t\t\t\r\n\t\t\t\t<script type=\"text/javascript\">\r\n\t\t\t\t
+        \   var _gaq = _gaq || [];\r\n\t\t\t\t    _gaq.push(['_setAccount', 'UA-24250922-19']);\r\n\t\t\t\t
+        \   _gaq.push(['_trackPageview']);\r\n\r\n\t\t\t\t    (function () {\r\n\t\t\t\t
+        \       var ga = document.createElement('script'); ga.type = 'text/javascript';
+        ga.async = true;\r\n\t\t\t\t        ga.src = ('https:' == document.location.protocol
+        ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n\t\t\t\t
+        \       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+        s);\r\n\t\t\t\t    })();\r\n\t\t\t\t</script>\r\n\t\t\t\r\n\r\n            <!--[if
+        IE 8 ]>    <style> a:hover {color:#AAA !important;} </style>  <![endif]-->\r\n\r\n\t\t</head>\r\n\r\n\t\t<body
+        onload=\"pageLoaded();\">\r\n\t\t\t<div id=\"pagewrapper\">            \r\n\t\t\t\t\r\n\r\n\r\n\t\t<div
+        id=\"toputilnav\">       \r\n\t\t\t<ul>\r\n                <li class=\"first\">\r\n\t\t\t\t\t<a
+        accesskey=\"s\" href=\"http://www.alderney.gov.gg/article/112088/Norma-Paris#SkipNavigation\">Skip
+        Navigation</a>                    \r\n                </li>\t\t\t\t\r\n\t\t\t\t<li>\r\n\t\t\t\t\t<a
+        href=\"http://www.alderney.gov.gg/article/4011/Home-Page\" title=\"Home Page\">Home</a>\r\n\t\t\t\t</li>\r\n\t\r\n\t\t\r\n\t\t\t\t<li
+        class=\"even\">\r\n\t\t\t\t\t<a href=\"http://www.alderney.gov.gg/article/4046/Contact-us\">Contact
+        us</a>\r\n\t\t\t\t</li>\r\n\t\t\t\r\n\t\r\n\t\t\r\n\t\t\t\t<li class=\"odd
+        last\">\r\n\t\t\t\t\t<a href=\"http://www.alderney.gov.gg/article/100656/Sitemap\">Sitemap</a>\r\n\t\t\t\t</li>\r\n\t\t\t\r\n\t\r\n\t\t\t</ul>\r\n\t\t</div>\r\n\t\r\n\r\n\r\n
+        \               <span class=\"GoogleContainer\">\r\n                <div id=\"google_translate_element\"
+        style=\"float:left; margin-right:20px;\"></div><script type=\"text/javascript\">\r\n
+        \       function googleTranslateElementInit() {\r\n            new google.translate.TranslateElement({\r\n
+        \               pageLanguage: 'en',\r\n                layout: google.translate.TranslateElement.InlineLayout.SIMPLE\r\n
+        \           }, 'google_translate_element');\r\n        }\r\n</script><script
+        src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"
+        type=\"text/javascript\"></script>\r\n\r\n<script type=\"text/javascript\">\r\n\r\n
+        \               var today = new Date();\r\n\r\n                var LongDay
+        = today.getDay();\r\n                var numberDay = today.getDate();\r\n
+        \               var month = today.getMonth();\r\n                var year
+        = today.getFullYear();\r\n\r\n                var dayName = [\"Sunday\", \"Monday\",
+        \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"][LongDay];\r\n
+        \               var monthName = [\"January\", \"February\", \"March\", \"April\",
+        \"May\", \"June\", \"July\", \"August\", \"September\", \"October\", \"November\",
+        \"December\"][month];\r\n\r\n                document.write(dayName.toString()
+        + \" \" + numberDay.toString() + \" \" + monthName.toString() + \" \" + year.toString());\r\n\r\n
+        \                   </script></span>\r\n                <br  style=\"clear:both;\"/>\r\n\t\t\t\t<div
+        id=\"topbanner\">\r\n\t\t\t\t\t<div id=\"toplogo\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<a
+        href=\"http://www.alderney.gov.gg/article/4011/Home-Page\" title=\"Home\"
+        >\r\n\t\t\t\t\t\t\t\t<img alt=\"Link to homepage\" src=\"./StatesofAlderney/images/toplogo.png\"
+        />\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\t\t\t\t</div>\r\n\t\t\t\t<div
+        id=\"toplevel\">\r\n\t\t\t\t\t\r\n\t<div id=\"toplevelsearch\">\r\n     \r\n\t\t<form
+        action=\"article/4255/Search\" method=\"get\">\r\n\t\t\t<fieldset>\r\n\t\t\t\t<legend>Search
+        site</legend>\r\n\t\t\t\t<label for=\"q\"><span>Search</span></label>\r\n\t\t\t\t<input
+        type=\"text\" name=\"q\" id=\"q\" value=\"Enter your search criteria here...\"
+        onfocus=\"focustextfield(this,'Enter your search criteria here...')\" onblur=\"blurtextfield(this,'Enter
+        your search criteria here...')\" />\r\n\t\t\t\t<input type=\"submit\" name=\"go\"
+        value=\"\" title=\"Search for entered keyword\" class=\"btntext\" />\r\n\t\t\t\t\r\n\t\t\t</fieldset>\r\n\t\t</form><br
+        />       \r\n\t</div> \r\n\r\n                    \r\n                    \r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\r\n\t\r\n\t\r\n\t\t\t<div
+        id=\"breadcrumb\">\r\n\t\t\t\t<ol>\r\n\t\t\r\n\r\n\t\t\t\t\t<li id=\"trail4011\"
+        class=\"even first\">\r\n\t\t\t\t\t\t<a href=\"http://www.alderney.gov.gg/article/4011/Home-Page\">Home
+        Page</a>\r\n                        \r\n\r\n                        \r\n                    <script
+        type=\"text/javascript\">\r\n\r\n                        \r\n                        var
+        myTimeout;\r\n                        $(\"#trail4011\").mouseenter(function
+        () {\r\n\r\n\r\n                            myTimeout = setTimeout(function
+        () {\r\n                                $('#SiblingDrop4011').slideDown('slow');\r\n
+        \                           }, 1000);\r\n                        }).mouseleave(function
+        () {\r\n                            clearTimeout(myTimeout);\r\n\r\n                        });\r\n\r\n
+        \                       $(\"#trail4011\").mouseleave(function () {\r\n                            $('#SiblingDrop4011').slideUp('fast',
+        function () {\r\n                                $('#SiblingDrop4011').clearQueue();\r\n
+        \                               $('#SiblingDrop4011').height('auto');\r\n\r\n
+        \                           });\r\n                        });\r\n\r\n                       \r\n
+        \                           \r\n                       \r\n                       \r\n
+        \                       \r\n                    </script>\r\n                    \r\n\t\t\t\t\t</li>\r\n
+        \               \r\n\r\n\t\t\r\n\r\n\t\t\t\t\t<li id=\"trail4063\" class=\"odd\">\r\n\t\t\t\t\t\t<a
+        href=\"http://www.alderney.gov.gg/article/4063/Government-and-Administration\">Government
+        and Administration</a>\r\n                        \r\n\r\n                        \r\n
+        \                       \r\n                            \r\n                                \r\n
+        \                                    <ul id=\"SiblingDrop4063\" class=\"SiblingDrop\">
+        \          \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4066/Business-and-Industry\">Business
+        and Industry</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4054/Living-in-Alderney\">Living
+        in Alderney</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4065/Planning--Building\"
+        title=\"Planning &amp; Building\">Planning &amp; Building</a></li>        \r\n
+        \                                                      \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4072/Travel-Traffic-and-Transport\">Travel,
+        Traffic and Transport</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4295/Emergency-Services\">Emergency
+        Services</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/100065/Court-Office\">Court
+        Office</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4294/Natural-Environment\">Natural
+        Environment</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4071/Health--Wellbeing\"
+        title=\"Health &amp; Wellbeing\">Health &amp; Wellbeing</a></li>        \r\n
+        \                                                      \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4064/Working-in-Alderney\">Working
+        in Alderney</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4068/Education--Learning\"
+        title=\"Education &amp; Learning\">Education &amp; Learning</a></li>        \r\n
+        \                                                      \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4069/Taxation\">Taxation</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4070/Customs-and-Excise\">Customs
+        and Excise</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/100046/Island-Life\">Island
+        Life</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/100058/Payment-of-Accounts\">Payment
+        of Accounts</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/100059/Government-Services\">Government
+        Services</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4334/News\">News</a></li>
+        \       \r\n                                                       \r\n                                             </ul>
+        \                               \r\n                            \r\n                         \r\n
+        \                   <script type=\"text/javascript\">\r\n\r\n                        \r\n
+        \                       var myTimeout;\r\n                        $(\"#trail4063\").mouseenter(function
+        () {\r\n\r\n\r\n                            myTimeout = setTimeout(function
+        () {\r\n                                $('#SiblingDrop4063').slideDown('slow');\r\n
+        \                           }, 1000);\r\n                        }).mouseleave(function
+        () {\r\n                            clearTimeout(myTimeout);\r\n\r\n                        });\r\n\r\n
+        \                       $(\"#trail4063\").mouseleave(function () {\r\n                            $('#SiblingDrop4063').slideUp('fast',
+        function () {\r\n                                $('#SiblingDrop4063').clearQueue();\r\n
+        \                               $('#SiblingDrop4063').height('auto');\r\n\r\n
+        \                           });\r\n                        });\r\n\r\n                       \r\n
+        \                           \r\n                       \r\n                       \r\n
+        \                       \r\n                    </script>\r\n                    \r\n\t\t\t\t\t</li>\r\n
+        \               \r\n\r\n\t\t\r\n\r\n\t\t\t\t\t<li id=\"trail4077\" class=\"even\">\r\n\t\t\t\t\t\t<a
+        href=\"http://www.alderney.gov.gg/article/4077/States-Members\">States Members</a>\r\n
+        \                       \r\n\r\n                        \r\n                        \r\n
+        \                           \r\n                                \r\n                                     <ul
+        id=\"SiblingDrop4077\" class=\"SiblingDrop\">           \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/107311/Elections\">Elections</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                      \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4057/Billets\">Billets</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/108113/Hansard-Reports\">Hansard
+        Reports</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4296/States-Committees\">States
+        Committees</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4062/Committee-Meetings\">Committee
+        Meetings</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/113291/Peoples-Meeting-and-Public-Questions\"
+        title=\"People&#39;s Meeting and Public Questions\">People&#39;s Meeting and
+        Public Questions</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4056/States-Departments\">States
+        Departments</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4058/Legislation\">Legislation</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/4059/Currency\">Currency</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/100076/CPA\">CPA</a></li>        \r\n
+        \                                                      \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/101251/Gazettes\">Gazettes</a></li>
+        \       \r\n                                                       \r\n                                                        \r\n
+        \                                                                   \r\n                                                        <li><a
+        href=\"http://www.alderney.gov.gg/article/100057/Download-Forms\">Download
+        Forms</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/105999/Facts--Figures\"
+        title=\"Facts &amp; Figures\">Facts &amp; Figures</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/156953/Economic-Development-Plan\">Economic
+        Development Plan</a></li>        \r\n                                                       \r\n
+        \                                            </ul>                                \r\n
+        \                           \r\n                         \r\n                    <script
+        type=\"text/javascript\">\r\n\r\n                        \r\n                        var
+        myTimeout;\r\n                        $(\"#trail4077\").mouseenter(function
+        () {\r\n\r\n\r\n                            myTimeout = setTimeout(function
+        () {\r\n                                $('#SiblingDrop4077').slideDown('slow');\r\n
+        \                           }, 1000);\r\n                        }).mouseleave(function
+        () {\r\n                            clearTimeout(myTimeout);\r\n\r\n                        });\r\n\r\n
+        \                       $(\"#trail4077\").mouseleave(function () {\r\n                            $('#SiblingDrop4077').slideUp('fast',
+        function () {\r\n                                $('#SiblingDrop4077').clearQueue();\r\n
+        \                               $('#SiblingDrop4077').height('auto');\r\n\r\n
+        \                           });\r\n                        });\r\n\r\n                       \r\n
+        \                           \r\n                       \r\n                       \r\n
+        \                       \r\n                    </script>\r\n                    \r\n\t\t\t\t\t</li>\r\n
+        \               \r\n\r\n\t\t\r\n\r\n\t\t\t\t\t<li id=\"trail112088\" class=\"odd
+        last\">\r\n\t\t\t\t\t\t<span>Norma Paris</span>\r\n                        \r\n\r\n
+        \                       \r\n                        \r\n                            \r\n
+        \                               \r\n                                     <ul
+        id=\"SiblingDrop112088\" class=\"SiblingDrop\">           \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/157565/Tony-Barnes\">Tony
+        Barnes</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4389/Matthew-Birmingham\">Matthew
+        Birmingham</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/157566/Mike-Dean\">Mike
+        Dean</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/157568/James-Dent\">James
+        Dent</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/106001/Louis-Jean\">Louis
+        Jean</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4387/Graham-McKinley\">Graham
+        McKinley</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4386/Steve-Roberts\">Steve
+        Roberts</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/157567/Alex-Snowdon\">Alex
+        Snowdon</a></li>        \r\n                                                       \r\n
+        \                                                       \r\n                                                                    \r\n
+        \                                                       <li><a href=\"http://www.alderney.gov.gg/article/4081/Ian-Tugby\">Ian
+        Tugby</a></li>        \r\n                                                       \r\n
+        \                                            </ul>                                \r\n
+        \                           \r\n                         \r\n                    <script
+        type=\"text/javascript\">\r\n\r\n                        \r\n                        var
+        myTimeout;\r\n                        $(\"#trail112088\").mouseenter(function
+        () {\r\n\r\n\r\n                            myTimeout = setTimeout(function
+        () {\r\n                                $('#SiblingDrop112088').slideDown('slow');\r\n
+        \                           }, 1000);\r\n                        }).mouseleave(function
+        () {\r\n                            clearTimeout(myTimeout);\r\n\r\n                        });\r\n\r\n
+        \                       $(\"#trail112088\").mouseleave(function () {\r\n                            $('#SiblingDrop112088').slideUp('fast',
+        function () {\r\n                                $('#SiblingDrop112088').clearQueue();\r\n
+        \                               $('#SiblingDrop112088').height('auto');\r\n\r\n
+        \                           });\r\n                        });\r\n\r\n                       \r\n
+        \                           \r\n                       \r\n                       \r\n
+        \                       \r\n                    </script>\r\n                    \r\n\t\t\t\t\t</li>\r\n
+        \               \r\n\r\n\t\t\r\n        \r\n\t\t\t\t</ol><br style=\"clear:both;\"
+        />\r\n\t\t\t</div>\r\n\t\t\r\n\r\n\r\n                \r\n    <div id=\"maincolumnwrapper\">\r\n
+        \       <a id=\"SkipNavigation\"></a>\r\n        \r\n\r\n\t\r\n\t\r\n    \r\n
+        \       <div id=\"leftside\">\r\n            \r\n\r\n\r\n\t\t\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\r\n
+        \               <span id=\"lefttitle\">Browse the Website</span>\r\n\t\t\t\t\t<ul
+        id=\"leftnavigation\">\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li class=\"slice3
+        level0\">\r\n\t\t\t\t\t\t\t\t<div><a href=\"http://www.alderney.gov.gg/article/4011/Home-Page\"
+        class=\"parent\">Home Page</a></div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        class=\"slice2 level1\">\r\n\t\t\t\t\t\t\t\t<div><a href=\"http://www.alderney.gov.gg/article/4063/Government-and-Administration\"
+        class=\"parent\">Government and Administration</a></div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        class=\"slice1 level2\">\r\n\t\t\t\t\t\t\t\t<div><a href=\"http://www.alderney.gov.gg/article/4077/States-Members\"
+        class=\"parent\">States Members</a></div>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t
+        \                                                                    \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv157565\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/157565/Tony-Barnes\"
+        class=\"sibling\">Tony Barnes</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv4389\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/4389/Matthew-Birmingham\"
+        class=\"sibling\">Matthew Birmingham</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv157566\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/157566/Mike-Dean\"
+        class=\"sibling\">Mike Dean</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv157568\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/157568/James-Dent\"
+        class=\"sibling\">James Dent</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv106001\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/106001/Louis-Jean\"
+        class=\"sibling\">Louis Jean</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv4387\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/4387/Graham-McKinley\"
+        class=\"sibling\">Graham McKinley</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n\t\t\t\t\t\t\t\t\t\t\t        <li class=\"selected\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t
+        \       <div><span>Norma Paris</span></div>\r\n\t\t\t\t\t\t\t\t\t\t\t        </li>\r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       \r\n\t\t\t\t\t\t\t\t\t\t\t        \r\n\t\t\t\t\t\t\t\t\t\t                                               \r\n\t\t\t\t\t\t\t\t
+        \                                                                    \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv4386\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/4386/Steve-Roberts\"
+        class=\"sibling\">Steve Roberts</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv157567\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/157567/Alex-Snowdon\"
+        class=\"sibling\">Alex Snowdon</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t                                                                     \r\n\t\t\t\t\t\t\t\t\t
+        \       \r\n                                                \r\n\t\t\t\t\t\t\t\t\t\t\t
+        \       <li class=\"sibling\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t        <div id=\"ChildParentdiv4081\">\r\n
+        \                                                           <a href=\"http://www.alderney.gov.gg/article/4081/Ian-Tugby\"
+        class=\"sibling\">Ian Tugby</a>\r\n                                                                  \r\n
+        \                                                           <br style=\"clear:both;\"
+        />  \r\n                                                        </div>\r\n
+        \                                                       </li>\r\n\t\t\t\t\t\t\t\t\t\t
+        \                                              \r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\r\n\t\t\r\n\r\n
+        \       </div>\r\n        <div id=\"rightside\">\r\n        \r\n\r\n    \r\n
+        \       <div id=\"initiatives\">\r\n            <h1>Government Initiatives</h1>
+        \           \r\n                       \r\n                    \r\n                        \r\n
+        \                               <a href=\"http://www.acre.gov.gg/\"><img src=\"./media/image/b/d/Renewable_energy.jpg\"
+        alt=\"Renewable Energy\" class=\"GIimage \" /></a>\r\n                            \r\n
+        \                               <a href=\"article/4115/E-Gambling\"><img src=\"./media/image/c/f/e-gaming.jpg\"
+        alt=\"E-Gaming\" class=\"GIimage \" /></a>\r\n                            \r\n
+        \                               <a href=\"article/4114/E-Commerce\"><img src=\"./media/image/c/n/e-commerce.jpg\"
+        alt=\"E-Commerce\" class=\"GIimage \" /></a>\r\n                            \r\n
+        \                               <a href=\"article/4054/Living-in-Alderney\"><img
+        src=\"./media/image/d/t/new-residents.jpg\" alt=\"New Residents\" class=\"GIimage
+        last\" /></a>\r\n                            \r\n        </div>       \r\n
+        \   \r\n\r\n        \r\n        \r\n        \r\n        </div>        \r\n
+        \       <div id=\"contentwrap\">      \r\n               \t\r\n        \r\n
+        \               \r\n\t\t\t        <h1>Norma Paris</h1>\r\n                     \r\n
+        \               \r\n                          \r\n            \r\n         \t\r\n
+        \       \r\n\r\n\t\t\t\t\t\t\r\n                 \r\n\t\t\t\t<p>Re-elected
+        in&nbsp;November 2014 for a 4 year term (ending 31 Dec 2018). First elected&nbsp;in
+        April 2014.</p><p>Responsibilities as of&nbsp;January 2017:</p><ul><li>Member,
+        Policy and Finance Committee</li><li>Chairman, General Services Committee</li><li>Member,
+        Finance Committee</li><li>Member, Commonwealth Parliamentary Association</li></ul><p>Individual
+        Responsibilities&nbsp;within the Policy and Finance Committee:-</p><ul><li>Liaison,
+        States' Trading Supervisory Board</li><li>Member, Governance Committee</li><li>Member,
+        Alderney Liaison Group</li></ul><p>Individual Responsibilities&nbsp;within
+        the General Services Committee:-</p><ul><li>Marina Development</li><li>Recreation,
+        Campsite and Island Hall (functions), States Properties/ Property Asset Management</li></ul><p>&nbsp;</p>\r\n\t\t\t\t\r\n\t\t\t\t\r\n
+        \                   <script type=\"text/javascript\">\r\n                        $(function
+        () {\r\n                            $('#relatedimages a').lightBox();\r\n
+        \                           $('.limage a').lightBox();\r\n                        });\r\n
+        \                   </script>\r\n\t\t\r\n        \r\n        \r\n                \r\n
+        \       <div id=\"furtherInfo\">\r\n                            \r\n                    <h4>Document
+        downloads</h4>\r\n                \r\n                    <a class=\"fiLink\"
+        href=\"CHttpHandler.ashx?id=106370&amp;p=0\">\r\n                        <img
+        class=\"Download\" src=\"./StatesofAlderney/images/download.png\" alt=\"\"/>\r\n
+        \                       <span class=\"fiTitle\">Declaration of Interests 2017
+        - Norma Paris</span>\r\n                        <span class=\"fiBody\">Declaration
+        of Interests 2017 - Norma Paris</span>\r\n                    </a>\r\n                \r\n
+        \                   <a class=\"fiLink\" href=\"CHttpHandler.ashx?id=100198&amp;p=0\">\r\n
+        \                       <img class=\"Download\" src=\"./StatesofAlderney/images/download.png\"
+        alt=\"\"/>\r\n                        <span class=\"fiTitle\">Declaration
+        of Interests 2016 - Norma Paris</span>\r\n                        <span class=\"fiBody\">Declaration
+        of Interests 2016 - Norma Paris</span>\r\n                    </a>\r\n                \r\n
+        \                   <br style=\"clear: both; display: block;\" />                   \r\n
+        \                           \r\n            \r\n        </div>\r\n        \r\n
+        \       \r\n        \r\n        </div>\r\n        <br style=\"clear:both;\"/>\r\n\t\r\n\r\n
+        \   </div>\r\n    \r\n\r\n               \r\n\t\t\t\t<div id=\"footer\">\r\n\t\t\t\t\t\t<div
+        id=\"copyright\">\r\n\t\t\t\t\t\t\t&#169;&nbsp;<script type=\"text/javascript\">document.write(new
+        Date().getFullYear());</script>&nbsp;States of Alderney <br /><br />\r\n                            Tel:&nbsp;
+        +44(0)1481 822811&nbsp;&nbsp; |&nbsp;&nbsp; Fax:&nbsp; +44(0)1481 822436&nbsp;&nbsp;
+        | &nbsp;&nbsp;<a href=\"mailto:info@alderney.gov.gg\" style=\"color:#2D3091;\">info@alderney.gov.gg</a>\r\n\t\t\t\t\t\t</div>\r\n
+        \                       \r\n\r\n\r\n        <div id=\"bottomutilnav\">\r\n
+        \           <ul>\r\n    \r\n        <li class=\"even first last\">\r\n            <a
+        href=\"http://www.alderney.gov.gg/article/4048/Privacy\">Privacy</a>\r\n        </li>\r\n
+        \   \r\n        </ul>\r\n        \r\n        \r\n                <a href=\"http://www.submarine.gg\"
+        class=\"sublink\">\r\n                    Site by Submarine                </a>\r\n
+        \           \r\n        </div>\r\n    \r\n\r\n                        \r\n\t\t\t\t
+        \   </div>       \r\n\r\n    \r\n    </div>\r\n   \r\n\r\n     </body> </html>\r\n\r\n"
+    http_version: 
+  recorded_at: Tue, 25 Apr 2017 13:34:34 GMT
+recorded_with: VCR 3.0.3
