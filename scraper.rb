@@ -18,7 +18,7 @@ def scrape(h)
   klass.new(response: Scraped::Request.new(url: url).response)
 end
 
-ScraperWiki.sqliteexecute('DELETE FROM data') rescue nil
+ScraperWiki.sqliteexecute('DROP TABLE data') rescue nil
 
 url = 'http://www.alderney.gov.gg/article/4077/States-Members'
 data = (scrape url => MembersPage).member_urls.map do |mem_url|
