@@ -20,16 +20,16 @@ response:
     Connection:
     - Keep-Alive
     Set-Cookie:
-    - ASP.NET_SessionId=1zfln1vqdd3uw3qdi5xrzajs; path=/; HttpOnly
+    - ASP.NET_SessionId=qor0xw53mvhi1ashodxk5l1d; path=/; HttpOnly
     - ISAWPLB{E9EF29AD-22A5-44E2-B2B4-A682D74D038A}={BE4991E4-51E0-46EE-A4E7-D6DAC5B232E3};
       HttpOnly; Path=/
-    - TextOnlyX=; expires=Fri, 09-Aug-2013 20:55:23 GMT; path=/
-    - clientvars=75a9464f-92f9-4b17-a00a-c41a18c1656f; path=/; HttpOnly
-    - mode=0; expires=Fri, 16-Nov-2018 21:55:23 GMT; path=/
+    - TextOnlyX=; expires=Sat, 10-Aug-2013 23:41:57 GMT; path=/
+    - clientvars=b4d50ca5-4688-483e-8c26-98ac02b0568b; path=/; HttpOnly
+    - mode=0; expires=Sun, 18-Nov-2018 00:41:57 GMT; path=/
     Expires:
-    - Thu, 09 Aug 2018 20:55:23 GMT
+    - Fri, 10 Aug 2018 23:41:57 GMT
     Date:
-    - Thu, 09 Aug 2018 20:55:24 GMT
+    - Fri, 10 Aug 2018 23:41:58 GMT
     Content-Type:
     - text/html; charset=utf-8
     Server:
@@ -45,4 +45,4 @@ response:
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Thu, 09 Aug 2018 20:55:25 GMT
+recorded_at: Fri, 10 Aug 2018 23:41:58 GMT
